@@ -1,6 +1,9 @@
 # zotero-markdown-translator
 A simple Zotero translator that creates a Markdown Link when exporting
 
+## add two file for obsidian
+You can use this files with the plugin(https://github.com/argenos/zotero-mdnotes)
+
 ## Demo 
 ![](demo.gif)
 ## How to Install
